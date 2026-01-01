@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const Zoom: React.FC = () => {
   const [inMeeting, setInMeeting] = useState(false);
